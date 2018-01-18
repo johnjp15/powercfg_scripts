@@ -1,4 +1,6 @@
 rem John Park
+rem Used for my ASUS UX550VE laptop power plans.
+rem 01-18-2018
 
 @echo off
 cls
