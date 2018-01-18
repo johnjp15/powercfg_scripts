@@ -43,4 +43,5 @@ goto :askpercent
 
 :end
 echo.
+pause
 exit /b
