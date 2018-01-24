@@ -5,6 +5,8 @@ rem 01-18-2018
 @echo off
 cls
 color 1f
+rem next line sets the current directory to the same directory as the batch file's location
+cd %~dp0
 echo CHANGE THE MAX PROCESSOR SPEED PERCENTAGE ON BATTERY POWER
 echo.
 
